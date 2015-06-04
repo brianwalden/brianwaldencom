@@ -13,7 +13,7 @@
         <nav class="navbar navbar-bw">
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+                    <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
 
                         <div class="navbar-header">
                             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -40,7 +40,7 @@
 
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+                <div class="col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2">
                     {{ content() }}
                 </div>
             </div>

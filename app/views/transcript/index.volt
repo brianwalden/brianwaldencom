@@ -4,8 +4,8 @@
 
 <div class="text-center">B.S. in Technical Communications from Clarkson University, May 2003</div>
 <div class="row text-center">
-    <div class="col-xs-6">Cumulative GPA: 3.705</div>
-    <div class="col-xs-6">Total Credits: 138</div>
+    <div class="col-sm-6">Cumulative GPA: 3.705</div>
+    <div class="col-sm-6">Total Credits: 138</div>
 </div>
 
 <h2 class="h4 text-center">Transfer Credit From High School</h2>
@@ -382,6 +382,6 @@
 
 <div class="text-center">B.S. in Technical Communications from Clarkson University, May 2003</div>
 <div class="row text-center">
-    <div class="col-xs-6">Cumulative GPA: 3.705</div>
-    <div class="col-xs-6">Total Credits: 138</div>
+    <div class="col-sm-6">Cumulative GPA: 3.705</div>
+    <div class="col-sm-6">Total Credits: 138</div>
 </div>

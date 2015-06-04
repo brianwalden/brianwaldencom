@@ -6,28 +6,28 @@
 
 <h2 class="h3 text-center">Brian Walden</h2>
 <div class="row">
-    <div class="col-xs-5 text-center">brianwalden<span class="contact-domain"></span></div>
-    <div class="col-xs-2 text-center"><span class="contact-area"></span>-<span class="contact-prefix"></span>-<span class="contact-line"></span></div>
-    <div class="col-xs-5 text-center"><span class="contact-house"></span> <span class="contact-philosopher"></span> <span class="contact-hail"></span>, Albany, NY, <span class="contact-zip"></div>
+    <div class="col-sm-5 text-center">brianwalden<span class="contact-domain"></span></div>
+    <div class="col-sm-2 text-center"><span class="contact-area"></span>-<span class="contact-prefix"></span>-<span class="contact-line"></span></div>
+    <div class="col-sm-5 text-center"><span class="contact-house"></span> <span class="contact-philosopher"></span> <span class="contact-hail"></span>, Albany, NY, <span class="contact-zip"></div>
 </div>
 <div class="row">
-    <div class="col-xs-4 text-center col-xs-offset-2">brianwalden.com</div>
-    <div class="col-xs-4 text-center contact-github"></div>
+    <div class="col-sm-4 text-center col-sm-offset-2">brianwalden.com</div>
+    <div class="col-sm-4 text-center contact-github"></div>
 </div>
 
 <h3 class="h4 text-center">Programmer</h3>
 <p>I am a web programmer experienced at working within MVC architectures and creating dynamic content</p>
 <div class="row">
-    <div class="col-xs-6"><strong>PHP</strong> Phalcon Framework, CakePHP Framework</div>
-    <div class="col-xs-6"><strong>HTML/CSS</strong> Twitter Bootstrap, jQuery UI</div>
+    <div class="col-sm-6"><strong>PHP</strong> Phalcon Framework, CakePHP Framework</div>
+    <div class="col-sm-6"><strong>HTML/CSS</strong> Twitter Bootstrap, jQuery UI</div>
 </div>
 <div class="row">
-    <div class="col-xs-6"><strong>JavaScript</strong> jQuery, Ajax</div>
-    <div class="col-xs-6"><strong>Git</strong></div>
+    <div class="col-sm-6"><strong>JavaScript</strong> jQuery, Ajax</div>
+    <div class="col-sm-6"><strong>Git</strong></div>
 </div>
 <div class="row">
-    <div class="col-xs-6"><strong>MySql</strong></div>
-    <div class="col-xs-6"><strong>Perl/CGI</strong></div>
+    <div class="col-sm-6"><strong>MySql</strong></div>
+    <div class="col-sm-6"><strong>Perl/CGI</strong></div>
 </div>
 
 <h3 class="h4 text-center">Experience</h3>
