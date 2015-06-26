@@ -4,7 +4,7 @@ namespace Brianwalden\Controllers;
 
 use Phalcon\Mvc\Controller;
 
-class ControllerBase extends Controller
+abstract class ControllerBase extends Controller
 {
     const TITLE_BASE = 'Brian Walden';
     const TITLE_SEPARATOR = ' | ';
